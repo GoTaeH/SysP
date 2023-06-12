@@ -64,7 +64,7 @@
 
 * * *
 ### | more : 파일 내용을 페이지 단위로력출력
-![more](https://github.com/GoTaeH/SysP/assets/119926336/236d9ac3-2174-4559-93d9-e4c527342398)
+![more](https://github.com/GoTaeH/SysP/assets/119926336/e1820654-682d-4ab1-8cc6-7bf7766ae861)
 
 * * *
 ### | mv : 파일이나 디렉토리 이동
