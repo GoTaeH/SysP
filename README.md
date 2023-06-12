@@ -26,9 +26,9 @@
 
 * * *
 ### | cp : 파일이나 디렉토리 복사
-*실행 전*
+<br> *실행 전* <br>
 ![cp 1](https://github.com/GoTaeH/SysP/assets/119926336/28fed1c4-ecd0-4cd7-af22-b7ec42d34c66)
-*실행 후*
+<br> *실행 후* <br>
 ![cp 2](https://github.com/GoTaeH/SysP/assets/119926336/96846e00-5e2a-4c36-9776-2c3550e0a726)
 
 * * *
@@ -57,9 +57,9 @@
 
 * * *
 ### | mkdir : 디렉토리 생성
-*실행 전*
+<br> *실행 전* <br>
 ![mkdir 1](https://github.com/GoTaeH/SysP/assets/119926336/d3c16871-6e4e-4bd2-bfa3-43882861fbf2)
-*실행 후*
+<br> *실행 후* <br>
 ![mkdir 2](https://github.com/GoTaeH/SysP/assets/119926336/418e7358-601b-4d10-af7b-bb27cdda1e12)
 
 * * *
@@ -68,9 +68,9 @@
 
 * * *
 ### | mv : 파일이나 디렉토리 이동
-*실행 전*
+<br> *실행 전* <br>
 ![mv1](https://github.com/GoTaeH/SysP/assets/119926336/c1b05997-22c7-4bcc-ab18-74b19884cb38)
-*실행 후*
+<br> *실행 후* <br>
 ![mv 2](https://github.com/GoTaeH/SysP/assets/119926336/fbfb9009-2cd9-4f69-99a4-f386e14aabd4)
 
 * * *
@@ -79,26 +79,26 @@
 
 * * *
 ### | rename : 파일 이름 변경
-*실행 전*
+<br> *실행 전* <br>
 ![rename 1](https://github.com/GoTaeH/SysP/assets/119926336/ad431f96-46bc-4668-8f7e-4d8127589536)
 ![rename 2](https://github.com/GoTaeH/SysP/assets/119926336/c2f0842d-61fe-499b-8a48-899d12e923bf)
-*실행 후*
+<br> *실행 후* <br>
 ![rename 3](https://github.com/GoTaeH/SysP/assets/119926336/14165d4f-4424-4c4a-b3cd-f4428de20707)
 
 * * *
 ### | rm : 파일 삭제
-*실행 전*
+<br> *실행 전* <br>
 ![rm 1](https://github.com/GoTaeH/SysP/assets/119926336/ca96d948-f621-4854-a99e-f38f05c14cf0)
 ![rm 2](https://github.com/GoTaeH/SysP/assets/119926336/61a00920-74e9-4696-b926-ed0510a01c98)
-*실행 후*
+<br> *실행 후* <br>
 ![rm 3](https://github.com/GoTaeH/SysP/assets/119926336/30036d6e-89ce-479f-ab7d-d2edf21ea0ab)
 
 * * *
 ### | rmdir : 비어있는 디렉토리 삭제
-*실행 전*
+<br> *실행 전* <br>
 ![rmdir 1](https://github.com/GoTaeH/SysP/assets/119926336/1254786c-5b18-4af7-9a36-141982d887b1)
 ![rmdir 2](https://github.com/GoTaeH/SysP/assets/119926336/0e494e0f-c76b-4913-912e-1a755e4c4747)
-*실행 후*
+<br> *실행 후* <br>
 ![rmdir 3](https://github.com/GoTaeH/SysP/assets/119926336/933e592f-7c91-4943-a0e9-5f11ae653d69)
 
 * * *
@@ -111,9 +111,9 @@
 
 * * *
 ### | touch : 빈 파일성생성
-*실행 전*
+<br> *실행 전* <br>
 ![touch](https://github.com/GoTaeH/SysP/assets/119926336/36e4af9d-95b3-45fb-b8d8-0021f193923b)
-*실행 후*
+<br> *실행 후* <br>
 ![touch result](https://github.com/GoTaeH/SysP/assets/119926336/84cf0364-4fda-4bb3-816b-caca72a43c57)
 
 * * *
