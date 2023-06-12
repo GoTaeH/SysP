@@ -43,8 +43,7 @@
 ### | grep : 특정 파일에서 지정한 문자열을 포함한 행을 출력
 ![grep](https://github.com/GoTaeH/SysP/assets/119926336/8326d929-348a-48b0-9990-6d5018b699c6)
 
-* * *
-> grep -n : 포함된 행의 번호를 함께 출력
+#### | grep -n : 포함된 행의 번호를 함께 출력
 ![grep -n](https://github.com/GoTaeH/SysP/assets/119926336/85843593-8a35-4838-b79c-7e8c31635d67)
 
 * * *
