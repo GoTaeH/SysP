@@ -8,16 +8,16 @@
 
 * * *
 ### | chmod : 파일과 디렉토리의 사용 권한 변경
-*실행 전*
+<br> *실행 전* <br>
 ![chmod 1](https://github.com/GoTaeH/SysP/assets/119926336/14bb2457-d1ff-4bf2-b884-f79c65f53b0a) 
-*실행 후*
+<br> *실행 후* <br>
 ![chmod 2](https://github.com/GoTaeH/SysP/assets/119926336/d1881e0f-c7b5-49d5-a7d8-27bd3b134507)
 
 * * *
 ### | clear : 터미널 화면 지움
-*실행 전*
+<br> *실행 전* <br>
 ![clear 1](https://github.com/GoTaeH/SysP/assets/119926336/55ee9c6e-32a1-4839-b68a-0e077e4420c1)
-*실행 후*
+<br> *실행 후* <br>
 ![clear 2](https://github.com/GoTaeH/SysP/assets/119926336/c5b2cbe7-ffb2-452d-b4e5-07beadb9af65)
 
 * * *
